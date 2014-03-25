@@ -23,5 +23,8 @@ After importing it in the page `SimpleDraggable` variable will be created. This 
    - `onlyX`: boolean value (true or false) that indicates if the element can be moved *only* on X axis (default: `undefined`)
    - onlyX: boolean value (true or false) that indicates if the element can be moved *only* on Y axis (default: `undefined`)
 
+## Demo
+http://jsfiddle.net/95rK9/
+
 ## License
 See LICENSE file.
