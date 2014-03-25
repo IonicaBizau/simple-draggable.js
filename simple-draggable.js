@@ -132,4 +132,4 @@
 
     // export the function
     window.SimpleDraggable = SimpleDraggable;
-});
+})(window);
