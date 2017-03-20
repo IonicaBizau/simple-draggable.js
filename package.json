@@ -1,6 +1,6 @@
 {
   "name": "simple-draggable",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "A tiny library to make elements draggable.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "draggable",
     "elements"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/simple-draggable.js/issues"
@@ -24,12 +24,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
