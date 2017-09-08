@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Initializes the draggable state.
 
 #### Params
+
 - **String** `selector`: The element query selector.
 - **Object** `options`: An object containing:
  - `onStart` (Function): A function to run on drag start.
